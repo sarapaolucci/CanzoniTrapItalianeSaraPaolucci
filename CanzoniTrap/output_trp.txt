@@ -1,0 +1,8 @@
+Punteggio medio delle canzoni: 7.2
+
+Le canzoni con punteggio superiore a 8: 2
+Le canzoni con punteggio inferiore a 5: 1
+
+La canzone con il punteggio più alto è: Cara Italia(punteggio 10)
+La canzone con il punteggio più basso è: Lei(punteggio 4)
+
